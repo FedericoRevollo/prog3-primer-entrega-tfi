@@ -1,0 +1,26 @@
+{
+  "name": "prog3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/catrieluhrig/Prog3-GrupoBC#readme",
+  "bugs": {
+    "url": "https://github.com/catrieluhrig/Prog3-GrupoBC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catrieluhrig/Prog3-GrupoBC.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "mysql2": "^3.22.2"
+  }
+}
